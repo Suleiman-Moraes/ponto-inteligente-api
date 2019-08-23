@@ -32,7 +32,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "empresa")
+@Table(name = "lancamento")
 public class Lancamento implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
